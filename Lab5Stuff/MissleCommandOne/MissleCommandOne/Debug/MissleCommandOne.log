@@ -1,0 +1,7 @@
+﻿  game.cpp
+c:\users\c00232277\desktop\lab5stuff\misslecommandone\misslecommandone\game.cpp(105): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  main.cpp
+  MissleCommandOne.vcxproj -> C:\Users\c00232277\Desktop\Lab5Stuff\MissleCommandOne\Debug\MissleCommandOne.exe
+  MissleCommandOne.vcxproj -> C:\Users\c00232277\Desktop\Lab5Stuff\MissleCommandOne\Debug\MissleCommandOne.pdb (Partial PDB)

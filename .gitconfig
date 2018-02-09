@@ -1,0 +1,10 @@
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[user]
+	name = Ethan Fagan
+	email = c00232277@itcarlow.ie
+[http]
+	proxy = http://proxycw3.itcarlow.ie:8080

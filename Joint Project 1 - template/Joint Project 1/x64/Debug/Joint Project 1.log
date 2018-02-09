@@ -1,0 +1,8 @@
+﻿  Player.cpp
+  Game.cpp
+c:\users\c00232277\desktop\joint project 1 - template\joint project 1\game.cpp(78): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\c00232277\desktop\joint project 1 - template\joint project 1\game.cpp(137): error C2660: 'EnemyLeftRight::draw': function does not take 1 arguments
+  EnemyLeftRight.cpp
+c:\users\c00232277\desktop\joint project 1 - template\joint project 1\enemyleftright.cpp(35): error C2084: function 'void EnemyLeftRight::boundaryCheck(void)' already has a body
+  c:\users\c00232277\desktop\joint project 1 - template\joint project 1\enemyleftright.cpp(19): note: see previous definition of 'boundaryCheck'
+  Generating Code...

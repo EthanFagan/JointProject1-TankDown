@@ -1,0 +1,11 @@
+﻿  EnemyFollow.cpp
+c:\users\c00232277\desktop\joint project 1 - template\joint project 1\enemyfollow.cpp(79): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\c00232277\desktop\joint project 1 - template\joint project 1\enemyfollow.cpp(80): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  Player.cpp
+  Game.cpp
+  EnemyLeftRight.cpp
+  Generating Code...
+  Joint Project 1.vcxproj -> C:\Users\c00232277\Desktop\Joint Project 1 - template\Debug\Joint Project 1.exe
+  Joint Project 1.vcxproj -> C:\Users\c00232277\Desktop\Joint Project 1 - template\Debug\Joint Project 1.pdb (Partial PDB)
